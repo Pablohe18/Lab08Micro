@@ -1,0 +1,25 @@
+﻿  Assembling Lab08.asm...
+Lab08.asm(1): error A2008: syntax error : .
+Lab08.asm(2): error A2008: syntax error : .
+\masm32\include\windows.INC(9750): error A2008: syntax error : dword
+\masm32\include\windows.INC(10183): error A2008: syntax error : frame
+\masm32\include\windows.INC(16333): error A2008: syntax error : dword
+\masm32\include\windows.INC(18862): error A2008: syntax error : Frame
+\masm32\include\winextra.inc(11052): error A2026: constant expected
+\masm32\include\winextra.inc(11053): error A2026: constant expected
+\masm32\include\masm32.INC(36): error A2008: syntax error : fpin
+\masm32\include\masm32.INC(37): error A2008: syntax error : fpin
+\masm32\include\masm32.INC(38): error A2008: syntax error : szIn
+Lab08.asm(41): error A2070: invalid instruction operands
+Lab08.asm(75): error A2070: invalid instruction operands
+Lab08.asm(83): error A2070: invalid instruction operands
+Lab08.asm(120): error A2070: invalid instruction operands
+Lab08.asm(129): error A2008: syntax error : INVOKE
+Lab08.asm(130): error A2008: syntax error : INVOKE
+Lab08.asm(131): error A2008: syntax error : INVOKE
+Lab08.asm(132): error A2008: syntax error : INVOKE
+Lab08.asm(145): error A2008: syntax error : INVOKE
+Lab08.asm(147): error A2008: syntax error : INVOKE
+Lab08.asm(150): error A2008: syntax error : INICIO
+Lab08.asm(150): error A2088: END directive required at end of file
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Professional\Common7\IDE\VC\VCTargets\BuildCustomizations\masm.targets(69,5): error MSB3721: The command "ml64.exe /c /nologo /Zi /Fo"x64\Debug\Lab08.obj" /W3 /errorReport:prompt  /TaLab08.asm" exited with code 1.
